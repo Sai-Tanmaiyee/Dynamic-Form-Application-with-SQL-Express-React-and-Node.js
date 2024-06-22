@@ -1,7 +1,6 @@
 import React, { useEffect } from "react";
 import { useForm, Controller } from "react-hook-form";
 import { DevTool } from "@hookform/devtools";
-import './Form.css'
 import { useParams } from "react-router-dom";
 import '../App.css'
 
