@@ -40,3 +40,7 @@ Form submissions are also sent to a Google Sheet via a Google Apps Script endpoi
 An Express server handles API requests for saving and retrieving form data.
 #### 7.Frontend Implementation:
 React for UI, React Hook Form for form handling, and React Router for navigation.
+
+
+Use the below link to access Google Sheet that dynamically stores data from the form:
+https://docs.google.com/spreadsheets/d/1OWOp-W5PonQStsSQ4wCKXPTuL7qPY2QcCHKc4BL5i4o/edit?gid=0#gid=0 
