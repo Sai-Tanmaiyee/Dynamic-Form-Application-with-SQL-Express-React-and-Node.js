@@ -1,4 +1,4 @@
-# Dynamic-Form-Application-with-SQL-Express-React-and-Node.js
+# Dynamic Form Application with SQL-Express-React-and-Node.js
 
 ## Installation & Running the application - Steps
 1. Clone the repository ```https://github.com/Sai-Tanmaiyee/Form-App.git```
