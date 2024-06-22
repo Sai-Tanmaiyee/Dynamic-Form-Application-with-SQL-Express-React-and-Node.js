@@ -23,20 +23,20 @@
 
 This project implements a dynamic form application using the MERN stack (MySQL, Express, React, Node.js). The application allows users to fill out and submit two different forms (Form A and Form B) with the same set of input fields: Name, Country Code, and Phone Number. The submitted data is stored in a MySQL database, and the application includes data synchronization functionality with a Google Sheet.
 
-1. Dynamic Forms:
+#### 1. Dynamic Forms:
 Two forms, Form A and Form B, accessible via buttons on the homepage.
 Both forms have fields for Name, Country Code, and Phone Number.
-2. Form Validation:
+#### 2. Form Validation:
 Name: Alphabetic, non-empty, at least 3 characters.
 Country Code: Selected from a predefined list.
 Phone Number: Numeric, exactly 10 digits.
-3.Data Storage:
+#### 3.Data Storage:
 Submissions are stored in a MySQL database, capturing form type, name, country code, and phone number.
-4.Local Storage:
+#### 4.Local Storage:
 Form data is saved in the browser's local storage for pre-filling on return visits.
-5.Data Synchronization:
+#### 5.Data Synchronization:
 Form submissions are also sent to a Google Sheet via a Google Apps Script endpoint.
-6.Backend Implementation:
+#### 6.Backend Implementation:
 An Express server handles API requests for saving and retrieving form data.
-7.Frontend Implementation:
+#### 7.Frontend Implementation:
 React for UI, React Hook Form for form handling, and React Router for navigation.
